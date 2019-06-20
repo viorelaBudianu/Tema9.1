@@ -1,0 +1,11 @@
+E:\vio\wantsome\w10\InsertPublisherApp\CrudBookApp\bin\Debug\CrudBookApp.exe.config
+E:\vio\wantsome\w10\InsertPublisherApp\CrudBookApp\bin\Debug\CrudBookApp.exe
+E:\vio\wantsome\w10\InsertPublisherApp\CrudBookApp\bin\Debug\CrudBookApp.pdb
+E:\vio\wantsome\w10\InsertPublisherApp\CrudBookApp\bin\Debug\InsertPublisherApp.exe
+E:\vio\wantsome\w10\InsertPublisherApp\CrudBookApp\bin\Debug\InsertPublisherApp.pdb
+E:\vio\wantsome\w10\InsertPublisherApp\CrudBookApp\bin\Debug\InsertPublisherApp.exe.config
+E:\vio\wantsome\w10\InsertPublisherApp\CrudBookApp\obj\Debug\CrudBookApp.csprojAssemblyReference.cache
+E:\vio\wantsome\w10\InsertPublisherApp\CrudBookApp\obj\Debug\CrudBookApp.csproj.CoreCompileInputs.cache
+E:\vio\wantsome\w10\InsertPublisherApp\CrudBookApp\obj\Debug\CrudBookApp.csproj.CopyComplete
+E:\vio\wantsome\w10\InsertPublisherApp\CrudBookApp\obj\Debug\CrudBookApp.exe
+E:\vio\wantsome\w10\InsertPublisherApp\CrudBookApp\obj\Debug\CrudBookApp.pdb

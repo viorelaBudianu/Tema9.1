@@ -1,0 +1,7 @@
+E:\vio\wantsome\w10\InsertPublisherApp\InsertPublisherApp\bin\Debug\InsertPublisherApp.exe.config
+E:\vio\wantsome\w10\InsertPublisherApp\InsertPublisherApp\bin\Debug\InsertPublisherApp.exe
+E:\vio\wantsome\w10\InsertPublisherApp\InsertPublisherApp\bin\Debug\InsertPublisherApp.pdb
+E:\vio\wantsome\w10\InsertPublisherApp\InsertPublisherApp\obj\Debug\InsertPublisherApp.csprojAssemblyReference.cache
+E:\vio\wantsome\w10\InsertPublisherApp\InsertPublisherApp\obj\Debug\InsertPublisherApp.csproj.CoreCompileInputs.cache
+E:\vio\wantsome\w10\InsertPublisherApp\InsertPublisherApp\obj\Debug\InsertPublisherApp.exe
+E:\vio\wantsome\w10\InsertPublisherApp\InsertPublisherApp\obj\Debug\InsertPublisherApp.pdb

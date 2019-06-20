@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: CrudBookApp, Configuration: Debug Any CPU ------
+1>  CrudBookApp -> E:\vio\wantsome\w10\InsertPublisherApp\CrudBookApp\bin\Debug\CrudBookApp.exe
+========== Build: 1 succeeded, 0 failed, 1 up-to-date, 0 skipped ==========

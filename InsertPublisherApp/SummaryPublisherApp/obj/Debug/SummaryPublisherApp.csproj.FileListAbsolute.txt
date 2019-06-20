@@ -1,0 +1,11 @@
+E:\vio\wantsome\w10\InsertPublisherApp\SummaryPublisherApp\obj\Debug\SummaryPublisherApp.csprojAssemblyReference.cache
+E:\vio\wantsome\w10\InsertPublisherApp\SummaryPublisherApp\obj\Debug\SummaryPublisherApp.csproj.CoreCompileInputs.cache
+E:\vio\wantsome\w10\InsertPublisherApp\SummaryPublisherApp\bin\Debug\SummaryPublisherApp.exe.config
+E:\vio\wantsome\w10\InsertPublisherApp\SummaryPublisherApp\bin\Debug\SummaryPublisherApp.exe
+E:\vio\wantsome\w10\InsertPublisherApp\SummaryPublisherApp\bin\Debug\SummaryPublisherApp.pdb
+E:\vio\wantsome\w10\InsertPublisherApp\SummaryPublisherApp\bin\Debug\InsertPublisherApp.exe
+E:\vio\wantsome\w10\InsertPublisherApp\SummaryPublisherApp\bin\Debug\InsertPublisherApp.pdb
+E:\vio\wantsome\w10\InsertPublisherApp\SummaryPublisherApp\bin\Debug\InsertPublisherApp.exe.config
+E:\vio\wantsome\w10\InsertPublisherApp\SummaryPublisherApp\obj\Debug\SummaryPublisherApp.csproj.CopyComplete
+E:\vio\wantsome\w10\InsertPublisherApp\SummaryPublisherApp\obj\Debug\SummaryPublisherApp.exe
+E:\vio\wantsome\w10\InsertPublisherApp\SummaryPublisherApp\obj\Debug\SummaryPublisherApp.pdb
